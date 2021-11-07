@@ -1,0 +1,1 @@
+# AlgoDetecting_stock
